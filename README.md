@@ -1,5 +1,7 @@
 #smartdns 配置
+
 conf-file /etc/smartdns/smartdns-domains.china.conf
+
 server 119.29.29.29 -group CN -exclude-default-group
 server 223.5.5.5 -group CN -exclude-default-group
 
